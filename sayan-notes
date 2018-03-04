@@ -1,0 +1,1 @@
+python3 1_get_faces_from_yt.py --url="https://www.youtube.com/watch?v=XtHwjrm4sMg" --start=30 --stop=40 --name="siraj raval" --limit=500

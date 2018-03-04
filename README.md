@@ -67,7 +67,7 @@ Just place the "models" folder next to the code directory.
 ### Step 3: Apply Face Swap on YouTube Video
 Perform facesqp on a youtube video.<br/>
 The "--start" and "--stop" parameters define in seconds where to clip the video.<br/>
-Set "--gif" to "True" if you want to export the generated video as gif file. 
+Set "--gif" to "True" if you want to export the generated video as gif file.
 ```
 python3 3_youtube_face_swap.py --url="https://www.youtube.com/watch?v=XnbCSboujF4" --start=0 --stop=60 --gif=False
 ```
